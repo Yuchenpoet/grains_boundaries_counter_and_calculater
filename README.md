@@ -11,8 +11,8 @@
 - **手动绘图 / Manual Drawing**：支持用户在图像上手动绘制区域（绿色线条）。  
   Allows users to draw regions manually on the image (green lines).
 
-- **撤销功能 / Undo**：可以撤销最后一次绘图操作。  
-  Allows undoing the last drawing operation.
+- **撤销功能 / Undo**：可以撤销上一次绘图操作。  
+  Allows undoing last drawing operation.
 
 - **区域分析 / Region Analysis**：分析绘制后的区域，计算前 K 大区域的面积。  
   Analyzes the drawn regions and calculates the area of the top K largest regions.
