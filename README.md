@@ -79,7 +79,7 @@ Below is the uploaded original grain image:
 以下是根据调整的超参数生成的边界检测结果：  
 Below is the boundary detection result based on adjusted hyperparameters:
 
-![result](result.jpg)
+![result](result.png)
 
 ## 参数说明 / Parameter Description
 
