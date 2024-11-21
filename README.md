@@ -61,6 +61,7 @@ Install the required dependencies using the following command:
 
 ```bash
 pip install opencv-python-headless numpy pillow
+```
 
 ## 示例 / Examples
 
